@@ -1,0 +1,22 @@
+client/node_module
+server/node_module
+
+
+# for frontend
+ 
+client/.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+client/bower_components
+
+*.sublime*
+
+client/psd
+client/thumb
+client/sketch
+
+# for backend
